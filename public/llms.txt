@@ -1,0 +1,82 @@
+# DS הפקות אירועים — Generative Engine Optimization Map
+
+> An event production company focused on creating and managing events. The specific niche, scale, and brand personality have not yet been described beyond the core business type.
+
+---
+
+## Pages
+
+### בית
+https://ds-d5b113da.zappy5.app
+הופכים כל רעיון לאירוע בלתי נשכח. מתכננים, מפיקים ומנהלים אירועים חיים בסטנדרט הגבוה ביותר. צרו קשר עוד היום ותנו לנו להפוך את החלום למציאות.
+
+### אודות
+https://ds-d5b113da.zappy5.app/about
+מאחורי כל הפקה עומד צוות של יוצרים, חולמים ומבצעים. הכירו את הסיפור, הערכים והאנשים שהופכים את DS הפקות אירועים למובילה בתחום. בואו לעבוד איתנו.
+
+### שירותים
+https://ds-d5b113da.zappy5.app/services
+מעיצוב קונספט ועד לניהול במה, תאורה וסאונד. סל השירותים המקיף שלנו מבטיח אירוע חי ללא דופי. גלו איך אנחנו מביאים כל הפקה לשלמות.
+
+### צור קשר
+https://ds-d5b113da.zappy5.app/contact
+רעיון לאירוע? אנחנו כאן להקשיב. השאירו פרטים או התקשרו לשיחת ייעוץ ראשונית ללא התחייבות. ביחד נרים הפקה שתשאיר את כולם פעורי פה.
+
+### תודה רבה | DS הפקות אירועים
+https://ds-d5b113da.zappy5.app/thank-you
+תודה על פנייתך ל-DS הפקות אירועים. הודעתך התקבלה בהצלחה וצוות המומחים שלנו יחזור אליך בהקדם האפשרי.
+
+## Legal & Policy
+
+### Privacy Policy
+https://ds-d5b113da.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://ds-d5b113da.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://ds-d5b113da.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://ds-d5b113da.zappy5.app/contact
+- Endpoint: https://ds-d5b113da.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About DS הפקות אירועים
+An event production company focused on creating and managing events. The specific niche, scale, and brand personality have not yet been described beyond the core business type.
+
+## Target Audience
+- מנהלי אירועים ארגוניים
+- מתכנני חתונות
+- אנשי מקצוע בשיווק אירועים
+
+## Industry
+Event Production
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://ds-d5b113da.zappy5.app/sitemap.xml
+- Robots: https://ds-d5b113da.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://ds-d5b113da.zappy5.app/llms-full.txt
