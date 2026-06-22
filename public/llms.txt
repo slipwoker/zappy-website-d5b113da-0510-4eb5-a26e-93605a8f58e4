@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://ds-d5b113da.zappy5.app
+https://example.com
 הופכים כל רעיון לאירוע בלתי נשכח. מתכננים, מפיקים ומנהלים אירועים חיים בסטנדרט הגבוה ביותר. צרו קשר עוד היום ותנו לנו להפוך את החלום למציאות.
 
 ### אודות
-https://ds-d5b113da.zappy5.app/about
+https://example.com/about
 מאחורי כל הפקה עומד צוות של יוצרים, חולמים ומבצעים. הכירו את הסיפור, הערכים והאנשים שהופכים את DS הפקות אירועים למובילה בתחום. בואו לעבוד איתנו.
 
 ### שירותים
-https://ds-d5b113da.zappy5.app/services
+https://example.com/services
 מעיצוב קונספט ועד לניהול במה, תאורה וסאונד. סל השירותים המקיף שלנו מבטיח אירוע חי ללא דופי. גלו איך אנחנו מביאים כל הפקה לשלמות.
 
 ### צור קשר
-https://ds-d5b113da.zappy5.app/contact
+https://example.com/contact
 רעיון לאירוע? אנחנו כאן להקשיב. השאירו פרטים או התקשרו לשיחת ייעוץ ראשונית ללא התחייבות. ביחד נרים הפקה שתשאיר את כולם פעורי פה.
 
 ### תודה רבה | DS הפקות אירועים
-https://ds-d5b113da.zappy5.app/thank-you
+https://example.com/thank-you
 תודה על פנייתך ל-DS הפקות אירועים. הודעתך התקבלה בהצלחה וצוות המומחים שלנו יחזור אליך בהקדם האפשרי.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://ds-d5b113da.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://ds-d5b113da.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://ds-d5b113da.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://ds-d5b113da.zappy5.app/contact
-- Endpoint: https://ds-d5b113da.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -77,6 +77,6 @@ Event Production
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://ds-d5b113da.zappy5.app/sitemap.xml
-- Robots: https://ds-d5b113da.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://ds-d5b113da.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
